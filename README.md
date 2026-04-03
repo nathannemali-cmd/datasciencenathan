@@ -28,13 +28,10 @@ Whitman College Golf Team
 ## Final Project Ideas
 
 ### 1. Stock Market Patterns
-How do technical indicators like RSI relate to short term price movements
-Can combining indicators improve prediction accuracy
+Can combining indicators improve prediction accuracy?
 
 ### 2. Golf Performance Data
-How does swing speed or consistency affect score outcomes
-What factors most influence scoring in competitive rounds
+What factors most influence scoring in competitive rounds?
 
 ### 3. Email Marketing and CRM Data
-What behaviors make a lead more likely to convert
-How does engagement score relate to actual revenue or sign ups
+What behaviors make a lead more likely to convert?
