@@ -1,7 +1,7 @@
 # datasciencenathan
 
-###Education
+### Education
 Whitman College
 
-###Work Experience
+### Work Experience
 Bay View Golf Club
