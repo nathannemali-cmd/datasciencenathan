@@ -1,4 +1,4 @@
-# datasciencenathan
+# Nathan Nemali - Portfolio
 
 ### Education
 Whitman College
