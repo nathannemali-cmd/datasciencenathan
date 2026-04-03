@@ -1,7 +1,5 @@
 # Nathan Nemali - Portfolio
 
-![Me](screenshot.png)
-
 ## About Me
 Whitman College student studying Economics with minors in Data Science and Finance. Interested in markets, trading, and data driven decision making.
 
