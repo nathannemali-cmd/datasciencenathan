@@ -49,3 +49,23 @@ Some questions I am hoping to explore include:
 3. Are there patterns in price movement after certain indicator signals occur?
 
 Overall, I want to use these indicators to better understand how traders analyze stocks and how data can be used to make decisions.
+
+## Project Update – Week 11
+
+### Data sources and why
+I decided to use stock market data from the Yahoo Finance API. I chose this because I am interested in investing and trading, and it provides real time and historical data like prices, volume, and indicators that are useful for analysis.
+
+### How I acquired the data
+I accessed the data using Python and API requests. I used specific stock tickers like AAPL and TSLA to pull historical price data. If I continue, I plan to automate pulling multiple stocks and longer time periods.
+
+### Important considerations
+The dataset is strong because it is large and updated frequently. However, it is limited because it does not directly include all technical indicators, so I may need to calculate things like RSI or moving averages myself.
+
+### Preliminary analysis
+From my initial exploration, I saw trends in stock prices over time and noticed patterns like volatility and general upward or downward movement. Some stocks showed stronger trends than others.
+
+### Cleaning and wrangling
+I had to convert dates into proper datetime format and make sure numerical values like prices were usable. I may also need to handle missing values and create new features like daily returns or indicators.
+
+### Challenges
+One challenge was making sure the API requests worked correctly and returned the right data. Another issue is organizing multiple stocks into one clean dataset for analysis.
