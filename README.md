@@ -69,3 +69,8 @@ I had to convert dates into proper datetime format and make sure numerical value
 
 ### Challenges
 One challenge was making sure the API requests worked correctly and returned the right data. Another issue is organizing multiple stocks into one clean dataset for analysis.
+
+### Week 12 Update
+<img src="screenshot2.png" width="100%">
+
+I added support and resistance levels to the stock price chart to identify key price zones where the stock tends to reverse or slow down. These levels help highlight potential areas of buying and selling pressure.
