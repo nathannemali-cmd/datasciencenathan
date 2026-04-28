@@ -74,3 +74,7 @@ One challenge was making sure the API requests worked correctly and returned the
 <img src="screenshot2.png" width="100%">
 
 I added support and resistance levels to the stock price chart to identify key price zones where the stock tends to reverse or slow down. These levels help highlight potential areas of buying and selling pressure, which are important for understanding market behavior. This connects directly to my overall project, since I am focusing on analyzing stock data and building toward trading strategies. By identifying these levels, I can better understand where price movements might stall or reverse, which is useful for making decisions about entry and exit points. Moving forward, I plan to build on this by adding technical indicators like RSI and moving averages to create a more complete view of market conditions and improve how I analyze potential trades.
+
+### Week 13 
+
+https://colab.research.google.com/drive/1i-g-4JDqZIVNcI8ANXldPKIyrkOWDsgJ#scrollTo=fg4nK2YjjkVt
