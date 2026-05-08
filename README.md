@@ -78,3 +78,9 @@ I added support and resistance levels to the stock price chart to identify key p
 ### Week 13 
 
 https://colab.research.google.com/drive/1i-g-4JDqZIVNcI8ANXldPKIyrkOWDsgJ#scrollTo=fg4nK2YjjkVt
+
+### Week 14
+So far, we have collected and cleaned CPI, interest rate, and S&P 500 sector data from 2000–2026. We created graphs for inflation and interest rates, ran OLS regressions on different sectors, and built a correlation heatmap to compare how sectors react to inflation and interest rate changes. We also added a bubble plot comparing sector correlation, return, and volatility.
+The main work left is improving the presentation, refining our explanations, and adding a few final visual improvements and statistical comparisons.
+The new technique we implemented was a bubble plot visualization. We learned it through Matplotlib documentation, DataCamp, and experimenting in Google Colab. This graph helps compare multiple variables at once and makes the financial relationships easier to understand.
+For our communication strategy, we plan to present the project as a progression from economic trends to stock market sector performance. We will mainly use slides with graphs and visualizations, while also showing parts of the project webpage during the presentation.
